@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"os"
 	"math"
-	"lab1/solver"
-	"lab1/interactive"
-	"lab1/noninteractive"
+	"github.com/KostianDev/sdmt-lab1/solver"
+	"github.com/KostianDev/sdmt-lab1/interactive"
+	"github.com/KostianDev/sdmt-lab1/noninteractive"
 )
 
 func main() {
